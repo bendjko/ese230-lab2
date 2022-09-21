@@ -1,3 +1,8 @@
+# To do 1: Write a Python code to do exactly what the program in Figure 5 does. 
+# Add some statements to take care of the situation where a student enters anything 
+# but 1 or 2 when asked what they want to calculate. 
+# The program should allow them to re-enter a correct choice.
+
 pi = 3.14159
 radius = float(input("Enter the radius of the sphere: "))
 
